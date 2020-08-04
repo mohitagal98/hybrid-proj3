@@ -287,3 +287,4 @@ Instances:
 First Wordpress Blog:
 ![04](https://raw.githubusercontent.com/mohitagal98/hybrid-proj3/master/Images/blog.JPG)
 
+There is still a problem, what if we want to do some updatation in MySQL or if there is a need to manage MySQL by logging into it. So, to get the solution [check here](https://github.com/mohitagal98/hybrid-proj4).
